@@ -1,7 +1,6 @@
 var drops = [];
 let yuans = [];
 var gravity = 0.1;
-var growth = 1;
 
 function setup() {
   createCanvas(700, 700);
