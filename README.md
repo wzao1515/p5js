@@ -1,3 +1,4 @@
+<html>
 <div id="text"></div>
  
 <script>
@@ -113,3 +114,4 @@ function draw() {
 }
 
 </script>
+</html>
